@@ -1,0 +1,3 @@
+packages:
+  - 'ember-render-modifiers'
+  - 'test-app'
